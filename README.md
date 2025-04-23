@@ -13,12 +13,26 @@ This project explores the relationship between mental health, physical health, g
 
 The primary aim of this analysis is to apply descriptive and inferential statistical methods to address the following research questions:
 
-1. Is there a difference in Mental Health Score and Physical Health Score between males and females?
-2. Is there a difference in Mental Health Score and Physical Health Score across different BMI groups (Underweight, Normal, Overweight, Obese)?
+1. Is there a difference in Mental Health Score between males and females?
+2. Is there a difference in Physical Health Score across different BMI groups (Underweight, Normal, Overweight, Obese)?
 3. Is there a relationship between Mental Health and Physical Health scores?
-4. Is there a relationship between BMI (as a continuous variable) and Physical Health Score?
-5. Is there an association between Regular Exercise and Gender?
-6. Is there an association between Regular Exercise and BMI group?
+4. Is there an association between Regular Exercise and Gender?
 
 Each question will be addressed using appropriate statistical techniques, supported by visualisations, summary tables  and interpretation.
 
+Tool Used: Python
+Libraries:
+- pandas
+- numpy
+- seaborn
+- matplotlib.pyplot
+- scipy.stats
+
+Process:
+- [x] Import libraries and load data
+- [x] Data Cleaning
+- [x] Univariate Analysis
+- [x] Bivariate Analysis
+- [x] Inferential Analysis
+
+Check out the notebook here:
