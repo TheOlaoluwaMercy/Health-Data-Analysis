@@ -35,4 +35,4 @@ Process:
 - [x] Bivariate Analysis
 - [x] Inferential Analysis
 
-Check out the notebook here:
+Check out the notebook [here](https://github.com/TheOlaoluwaMercy/Health-Data-Analysis/blob/main/Health%20Data%20Analysis.ipynb)
